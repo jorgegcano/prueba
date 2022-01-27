@@ -32,3 +32,12 @@ p {
 .input {
 	border-bottom: grey;
 }
+
+.postcard-footer {
+	text-align: center;
+}
+
+button {
+	background: darkgrey;
+	padding: 5px;
+}
